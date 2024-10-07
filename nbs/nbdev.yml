@@ -3,7 +3,7 @@ project:
 
 website:
   title: "hand_pose"
-  site-url: "https://benjaminserrano23.github.io/hand_pose"
-  description: "Joaquín Escanilla y Benjamín Serrano Hand Pose Lenguaje de Señas"
+  site-url: "https://dci-courses.github.io/id_grupo_06/"
+  description: "Joaquï¿½n Escanilla y Benjamï¿½n Serrano Hand Pose Lenguaje de Seï¿½as"
   repo-branch: main
-  repo-url: "https://github.com/benjaminserrano23/hand_pose"
+  repo-url: "https://github.com/dci-courses/id_grupo_06"
