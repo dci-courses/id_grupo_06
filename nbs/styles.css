@@ -35,3 +35,20 @@ div.description {
   font-size: 135%;
   opacity: 70%;
 }
+
+#p5-sketch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ajusta la altura según sea necesario */
+}
+
+#canvas-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  display: block;
+}

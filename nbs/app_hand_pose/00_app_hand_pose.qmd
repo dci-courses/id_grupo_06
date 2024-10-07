@@ -15,7 +15,7 @@ description: "Ejemplo de modelo pre-entrenado para detectar las vocales A, E, I,
 <script>
 let video;
 let classifier;
-let modelLoaded = 'https://teachablemachine.withgoogle.com/models/Eq-HEZCYs/';
+let modelLoaded = 'https://teachablemachine.withgoogle.com/models/qAoYvi99u/';
 let label = 'Resultado...';
 let confidence = 'Confianza...';
 
