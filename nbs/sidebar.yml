@@ -4,4 +4,4 @@ website:
       - index.ipynb
       - section: APP Hand Pose
         contents:
-          - app_hand_pose\00_app_hand_pose.html
+          - app_hand_pose\00_app_hand_pose.qmd
